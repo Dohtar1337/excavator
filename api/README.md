@@ -4,7 +4,7 @@
 
 # Overview
 
-There are two ways to use API. Details are explained below.
+There are two ways to use API. Details are explained below.1
 
 1. Using HTTP API
 
